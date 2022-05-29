@@ -17,7 +17,8 @@ npm install chromedriver
 ```
 ```
 
-## Iniciar o teste
+### Iniciar o teste
 ```
 npm test ./test/homepage.js
+```
 ```
