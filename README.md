@@ -1,8 +1,5 @@
 # JavaScript_Node_Selenium
 
-## Summary
-Selenium Page Object Model framework using JavaScript and Mocha.
-
 ## Depedencias
 ### Iniciar Projeto
 ```
