@@ -15,9 +15,8 @@ npm install selenium-webdriver
 ```
 npm install chromedriver
 ```
-```
 
-### Iniciar o teste
+### Iniciar o Teste
 ```
 npm test ./test/homepage.js
 ```
