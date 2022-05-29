@@ -1,14 +1,10 @@
-# JavaScript_Mocha_Selenium
-
-## Video Tutorial Link
-
-[JavaScript | Mocha: Selenium Page Object Model Tutorial](https://youtu.be/Fsgt2v-Aat0 "JavaScript | Mocha: Selenium Page Object Model Tutorial")
+# JavaScript_Node_Selenium
 
 ## Summary
 Selenium Page Object Model framework using JavaScript and Mocha.
 
-## Dependencies
-### Initialize Project
+## Depedencias
+### Iniciar Projeto
 ```
 npm init
 ```
@@ -22,13 +18,9 @@ npm install selenium-webdriver
 ```
 npm install chromedriver
 ```
-
-### Install Chromedriver
-```
-npm install mocha
 ```
 
-## To Run the tests
+## Iniciar o teste
 ```
 npm test ./test/homepage.js
 ```
