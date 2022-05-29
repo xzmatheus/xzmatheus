@@ -20,4 +20,3 @@ npm install chromedriver
 ```
 npm test ./test/homepage.js
 ```
-```
